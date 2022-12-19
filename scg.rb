@@ -9,6 +9,6 @@ class Scg < Formula
   sha256 "ce86acbf2bb172c1315dc21392f0020254a60c842ebbea2b346f84f0665602dc"
 
   def install
-    bin.install "acli"
+    bin.install "scg"
   end
 end
